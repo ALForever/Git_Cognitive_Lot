@@ -1,6 +1,5 @@
 "use strict";
 
-
 //Практическое задание
 var HideSomeFieldView = function() 
 {
